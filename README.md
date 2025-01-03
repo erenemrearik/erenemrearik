@@ -1,6 +1,12 @@
+# Eren Emre Arık
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&color=000000) ![Bootstrap](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&color=000000) ![Bootstrap](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat&logo=JAVASCRIPT&color=000000) ![Bootstrap](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=C#&color=000000) ![Bootstrap](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.NET&color=000000) ![Bootstrap](https://img.shields.io/badge/-REACT-05122A?style=flat&logo=REACT&color=000000)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=erenemrearik&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+- 💻 **Programming Enthusiast:** Studying Computer Programming at Istanbul Medipol University and working to build a strong foundation in software development.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 💡 **Continuous Learner:** Staying updated with the latest technological advancements and improving myself are among my top priorities.
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erenemrearik/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/emrenos/)](https://www.instagram.com/emrenos)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:erenemrearik@gmail.com)
+[![Github](https://img.shields.io/github/followers/erenemrearik?label=Follow&style=social)](https://github.com/erenemrearik)
